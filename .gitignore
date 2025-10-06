@@ -1,0 +1,13 @@
+# Dados brutos e sensíveis
+data/raw/
+*.csv
+*.gexf
+
+# Ambientes virtuais
+venv/
+__pycache__/
+*.ipynb_checkpoints
+
+# Arquivos temporários
+.DS_Store
+*.log
