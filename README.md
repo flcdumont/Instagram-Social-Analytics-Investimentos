@@ -39,5 +39,5 @@ Análise de dados públicos do Instagram para entender o comportamento da comuni
 
 ## 👤 Autor
 **Felipe Costa**  
-📧 felipe.costa@email.com  
-[LinkedIn](https://linkedin.com/in/seulink) • [GitHub](https://github.com/seuusuario)
+📧 felipecostadata@email.com  
+[LinkedIn](https://www.linkedin.com/in/felipe-costa-398b72388/) • [GitHub](https://github.com/flcdumont)
